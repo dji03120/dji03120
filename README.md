@@ -1,16 +1,21 @@
-## Hi there 👋
+# 노윤종 · Yunjong Noh
 
-<!--
-**dji03120/dji03120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer** @ SN Corp. · Seoul, KR
 
-Here are some ideas to get you started:
+```
+$ whoami
+software engineer interested in SQL & cyber security,
+building things end-to-end — from query plans to personal infra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ currently
+🔐 sharpening security fundamentals — buffer overflows, malware analysis
+🗄️ going deep on SQL / database internals
+🏠 running a homelab — NAS + local AI inference server
+
+$ stack
+Python · Kotlin · JavaScript · SQL · C
+```
+
+**elsewhere**
+
+🌐 [nohway.com](https://www.nohway.com) · ✉️ [dji03120@gmail.com](mailto:dji03120@gmail.com)
