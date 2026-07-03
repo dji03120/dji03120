@@ -13,7 +13,7 @@ $ currently
 🏠 running a homelab — NAS + local AI inference server
 
 $ stack
-Python · Kotlin · JavaScript · SQL · C
+Python · Kotlin · JavaScript · SQL · C++ · Ghidra · Flutter ·Heidisql · MongoDB · AWS EC2 · Node.js · Next.js
 ```
 
 **elsewhere**
