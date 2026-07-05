@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.nohway.com">🌐 nohway.com</a>
+  <a href="comming.soon">🌐 </a>
   &nbsp;/&nbsp;
   <a href="mailto:dji03120@gmail.com">✉️ dji03120@gmail.com</a>
 </p>
