@@ -1,35 +1,54 @@
+<div align="center">
+
 # Yunjong Noh
 
-Software engineer based in Seoul. I like building practical tools, reading code until it makes sense, and leaving projects a little cleaner than I found them.
+Software engineer in Seoul, working across web systems, databases, and practical backend tools.
 
-I work mostly around web systems, databases, and small infrastructure projects. Lately I have been spending more time with SQL, backend APIs, Android development, and security fundamentals.
+[Website](https://www.nohway.com) · [Email](mailto:dji03120@gmail.com) · [GitHub](https://github.com/dji03120)
 
-## What I Work With
+<br/>
 
-Python, Kotlin, JavaScript, SQL, C, C++, PHP, Flutter, Node.js, Next.js, MongoDB, PostgreSQL, Firebase, AWS EC2
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=111)
+
+</div>
+
+<br/>
+
+## About
+
+I like building things that are useful, readable, and easy to come back to later. My work usually sits somewhere between frontend, backend, database design, and small infrastructure projects.
+
+Right now I am working at **SN Corp.**, studying database internals, and keeping a small homelab for NAS, deployment practice, and local AI experiments.
+
+<br/>
 
 ## Selected Work
 
-[BookNook-App](https://github.com/dji03120/BookNook-App)  
-Android reading app built with Kotlin, Firebase, and the Google Books API. The project covers account flows, book search, personal collections, reviews, reading status, and light social features.
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [BookNook-App](https://github.com/dji03120/BookNook-App) | Android app for book search, reviews, collections, reading status, and social reading features. | Kotlin, Firebase, Google Books API |
+| [CSULB_Rating_Web](https://github.com/dji03120/CSULB_Rating_Web) | Campus review web app for ratings, polls, saved posts, and voting. | React, Express, MongoDB |
+| [SQL-Practice](https://github.com/dji03120/SQL-Practice) | PostgreSQL practice notes for relationships, schema design, and query writing. | PostgreSQL, SQL |
+| [Student-Enrollment-System](https://github.com/dji03120/Student-Enrollment-System) | Console project for modeling departments, students, courses, and enrollments in MongoDB. | Python, PyMongo, MongoDB |
 
-[CSULB_Rating_Web](https://github.com/dji03120/CSULB_Rating_Web)  
-Web project for browsing and sharing course-related ratings. Built as a practical full-stack exercise with a deployed frontend.
+<br/>
 
-[SQL-Practice](https://github.com/dji03120/SQL-Practice)  
-PostgreSQL practice notes and examples focused on relationships, schema design, and query writing.
+## Working Notes
 
-[Student-Enrollment-System](https://github.com/dji03120/Student-Enrollment-System)  
-Small Python and MongoDB project for modeling student enrollment data with a NoSQL database.
+```text
+current focus  SQL, backend APIs, Android, security fundamentals
+good at        turning rough requirements into working tools
+learning       database internals, cleaner deployment habits, reverse engineering basics
+```
 
-## Currently
+<br/>
 
-- Working as a software engineer at SN Corp.
-- Studying database internals and writing better SQL.
-- Keeping a small homelab for NAS, deployment practice, and local AI experiments.
-- Learning security basics through controlled lab projects and writeups.
+## Contact
 
-## Elsewhere
-
-[nohway.com](https://www.nohway.com)  
-[dji03120@gmail.com](mailto:dji03120@gmail.com)
+For project notes, experiments, and writing: [nohway.com](https://www.nohway.com)  
+For direct contact: [dji03120@gmail.com](mailto:dji03120@gmail.com)
