@@ -29,7 +29,7 @@
 
 ## About
 
-I am a software engineer based in Seoul, building practical web applications, backend services, database-driven systems, and developer tooling. My work spans Python and JavaScript services, Kotlin Android development, relational and document databases, and cloud deployment practice.
+I am a software engineer based in Daejeon, building practical web applications, backend services, database-driven systems, and developer tooling. My work spans Python and JavaScript services, Kotlin Android development, relational and document databases, and cloud deployment practice.
 
 I care about understandable code, reliable data flows, and products that remain maintainable after the first release. Recent work includes concurrency-safe API design, full-stack community products, mobile applications, and infrastructure experiments across Docker, Kubernetes, AWS EC2, and a personal homelab.
 
