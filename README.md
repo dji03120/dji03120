@@ -191,7 +191,7 @@ No external competitive-programming profile is claimed. Engineering work is avai
 
 ### 소개
 
-서울을 기반으로 웹 애플리케이션, 백엔드 서비스, 데이터베이스 중심 시스템과 개발 도구를 만드는 소프트웨어 엔지니어입니다. Python과 JavaScript 기반 서비스, Kotlin Android 개발, 관계형·문서형 데이터베이스, 클라우드 배포 환경을 폭넓게 다룹니다.
+대전애서 (주)에스엔에서 근무중이며, 웹 애플리케이션, 백엔드 서비스, 데이터베이스 중심 시스템과 개발 도구를 만드는 소프트웨어 엔지니어입니다. Python과 JavaScript 기반 서비스, Kotlin Android 개발, 관계형·문서형 데이터베이스, 클라우드 배포 환경을 폭넓게 다룹니다.
 
 첫 구현 이후에도 이해하고 유지보수하기 쉬운 코드, 안정적인 데이터 흐름, 실제 사용할 수 있는 제품을 중요하게 생각합니다. 최근에는 동시성을 고려한 API 설계, 풀스택 커뮤니티 서비스, 모바일 애플리케이션, Docker·Kubernetes·AWS EC2 및 개인 홈랩 기반의 인프라 실습에 집중하고 있습니다.
 
