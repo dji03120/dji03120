@@ -1,11 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,50:1D5C63,100:2A9D8F&height=150&section=header&text=Yunjong%20Noh&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" width="100%" style="display:block;" alt="Yunjong Noh" />
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2A9D8F,100:14213D&height=78&section=footer&text=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&fontSize=18&fontColor=FFFFFF&fontAlignY=55" width="100%" style="display:block;margin-top:-6px;" alt="Software Engineer · Backend · Full-Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,35:1D5C63,70:2A9D8F,100:2A9D8F&height=220&section=header&text=%EB%85%B8%EC%9C%A4%EC%A2%85&fontSize=52&fontColor=FFFFFF&fontAlignY=32&desc=Yunjong%20Noh-nl-Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="노윤종 · Yunjong Noh" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=2A9D8F&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+backend+systems;Designing+practical+data-driven+products;Open+to+opportunities+in+Korea+and+the+United+States)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2A9D8F&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+backend+systems;Designing+practical+data-driven+products;Open+to+opportunities+in+Korea+and+the+United+States)](https://git.io/typing-svg)
 
 ![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-1D5C63?style=flat-square)
 ![CSULB Projects](https://img.shields.io/badge/Academic%20Context-CSULB%20Projects-14213D?style=flat-square)
