@@ -1,21 +1,21 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:241B15,100:3B2C24&height=220&section=header&text=%EB%85%B8%EC%9C%A4%EC%A2%85&fontSize=52&fontColor=FFFFFF&fontAlignY=32&desc=Yunjong%20Noh-nl-Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="노윤종 · Yunjong Noh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35597A,100:4A7CA3&height=220&section=header&text=%EB%85%B8%EC%9C%A4%EC%A2%85&fontSize=52&fontColor=FFFFFF&fontAlignY=32&desc=Yunjong%20Noh-nl-Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20Full-Stack&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="노윤종 · Yunjong Noh" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=5B8FB0&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+backend+systems;Designing+practical+data-driven+products;Open+to+opportunities+in+Korea+and+the+United+States)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6FA3C7&center=true&vCenter=true&width=760&lines=Building+reliable+web+and+backend+systems;Designing+practical+data-driven+products;Open+to+opportunities+in+Korea+and+the+United+States)](https://git.io/typing-svg)
 
-![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-3E6B8A?style=flat-square)
-![CSULB Projects](https://img.shields.io/badge/Academic%20Context-CSULB%20Projects-3B2C24?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Daejeon%2C%20South%20Korea-5C4636?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-4A7CA3?style=flat-square)
+![CSULB Projects](https://img.shields.io/badge/Academic%20Context-CSULB%20Projects-5C4636?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Daejeon%2C%20South%20Korea-8A7B6C?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nohway.com-3E6B8A?style=for-the-badge&logo=safari&logoColor=white)](https://www.nohway.com)
-[![Email](https://img.shields.io/badge/Email-dji03120%40gmail.com-3B2C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dji03120@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dji03120-241B15?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dji03120)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nohway.com-4A7CA3?style=for-the-badge&logo=safari&logoColor=white)](https://www.nohway.com)
+[![Email](https://img.shields.io/badge/Email-dji03120%40gmail.com-5C4636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dji03120@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dji03120-5C4636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dji03120)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dji03120&style=flat-square&color=5C4636&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dji03120?style=flat-square&color=3B2C24&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=dji03120&style=flat-square&color=8A7B6C&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dji03120?style=flat-square&color=8A7B6C&label=FOLLOWERS)
 
 [English](#english-profile) · [한국어](#한국어-프로필)
 
@@ -313,10 +313,10 @@ Google Books API와 Firebase를 활용해 도서 검색, 개인 서재, 독서 �
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dji03120&show_icons=true&hide_border=true&title_color=5B8FB0&icon_color=C99B6A&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" alt="Yunjong Noh's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dji03120&layout=compact&hide_border=true&title_color=5B8FB0&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dji03120&show_icons=true&hide_border=true&title_color=6FA3C7&icon_color=C99B6A&text_color=C9D1D9&bg_color=0D1117&rank_icon=github" alt="Yunjong Noh's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dji03120&layout=compact&hide_border=true&title_color=6FA3C7&text_color=C9D1D9&bg_color=0D1117" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=dji03120&hide_border=true&background=0D1117&ring=5B8FB0&fire=C99B6A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5B8FB0&sideLabels=A8C4D6&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=dji03120&hide_border=true&background=0D1117&ring=6FA3C7&fire=C99B6A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6FA3C7&sideLabels=A8C4D6&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
 
 </div>
 
@@ -336,7 +336,7 @@ Google Books API와 Firebase를 활용해 도서 검색, 개인 서재, 독서 �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dji03120&bg_color=0D1117&color=A8C4D6&line=5B8FB0&point=C99B6A&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dji03120&bg_color=0D1117&color=A8C4D6&line=6FA3C7&point=C99B6A&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -377,9 +377,9 @@ Open To / 구직:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-dji03120%40gmail.com-3B2C24?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dji03120@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dji03120-241B15?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dji03120)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nohway.com-3E6B8A?style=for-the-badge&logo=safari&logoColor=white)](https://www.nohway.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dji03120%40gmail.com-5C4636?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dji03120@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dji03120-5C4636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dji03120)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nohway.com-4A7CA3?style=for-the-badge&logo=safari&logoColor=white)](https://www.nohway.com)
 
 </div>
 
@@ -389,6 +389,6 @@ Open To / 구직:
 
 **Build clearly. Ship thoughtfully. Keep learning.**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B2C24,100:241B15&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A7CA3,100:35597A&height=120&section=footer)
 
 </div>
