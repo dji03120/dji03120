@@ -40,25 +40,21 @@ I care about understandable code, reliable data flows, and products that remain 
 ## Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,kotlin,js,sql" alt="Python, Kotlin, JavaScript, SQL" />
 </p>
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="React, Vite, HTML, CSS" />
 </p>
 
 ### Backend & Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,firebase" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB, Redis, Firebase" />
 </p>
 
 ### Cloud, DevOps & Tooling
-
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,git,linux,grafana" alt="AWS, Docker, Kubernetes, nginx, GitHub Actions, Git, Linux, Grafana" />
 </p>
