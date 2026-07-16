@@ -56,7 +56,10 @@ I care about understandable code, reliable data flows, and products that remain 
 
 ### Cloud, DevOps & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,git,linux,grafana" alt="AWS, Docker, Kubernetes, nginx, GitHub Actions, Git, Linux, Kafka" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,git,linux,kafka"
+    alt="AWS, Docker, Kubernetes, NGINX, GitHub Actions, Git, Linux, Kafka"
+  />
 </p>
 
 ---
